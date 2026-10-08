@@ -174,4 +174,4 @@ Check that you're using the correct format: `'keyname:state'` (e.g., `'ctrl:1'`,
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
 
-ydotool is licensed under AGPL-3.0.
+[ydotool](https://github.com/ReimuNotMoe/ydotool) is licensed under [AGPL-3.0](https://github.com/ReimuNotMoe/ydotool/blob/master/LICENSE).
